@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name":"Facundo Marilao",
+    "description":"Full Stack Web Developer",
+    "image":"profilepic.png",
+    "bio":"I have more than 13 years as an entrepreneur in the travel and tourism sector leading and managing a middle size company giving me a broader vision of business and the ability to work as a team. I'm looking for an opportunity to apply my professional experience in which I was always passionate.",
+    "contactmessage":"Contact Me",
+    "email": "hi@fmarilao.tech",
+    "phone": "+54-291-439-5252",
+    "github":"https://github.com/fmarilao",
+    "project":"https://www.linkedin.com/in/fmarilao/",
+    "address":{
+      "street":"GMT -3",
+      "city":"Bahía Blanca,",
+      "state":"Buenos Aires",
+      "zip": "Argentina"
+    },
+    "website": "http://fmarilao.tech",
+    "resumedownload":"https://drive.google.com/file/d/12Ry8h4VlnWW6upb0W_uLo55FVpoy_P1i/view?usp=sharing",
+    "resumeSpanishdownload":"https://drive.google.com/file/d/1ejRfxNRhjnDj67_-xErOV6ROssR14rgO/view?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/fmarilao/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/fmarilao/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/fmarilao/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Teclab Instituto",
+        "id": "1",
+        "degree":"Associate Degree, Software Development",
+        "graduated":"2020 to 2022",
+        "description":"- Development in HTML, CSS, Java \n- SQL and ORACLE databases \n- Product design focused on the end user: Design thinking, Agile UX and Lean UX. \n- Software quality evaluation with unit tests \n- Authentication and access control services \n- Software lifecycle management and project management \n- Java and Android mobile programming. Android Studio and AVD SDK \n- Creation of apps with Material Desing and Responsive desing."
+      },
+      {
+        "school":"soyHenry Bootcamp",
+        "id": "2",
+        "degree":"Full Stack Developer",
+        "graduated":"2020 to 2021",
+        "description":"- HTML/CSS/GIT/Javascript Fundamentals \n- Advanced Javascript  | Data Structure | Algorithms \n- Advanced DOM/CSS Avanzado ES6 | AJAX | Modules + Bundlers \n - React | Redux | DMBS, SQL, ORM."
+      },
+      {
+        "school":"UTN FRBB",
+        "id": "3",
+        "degree":"Cisco CCNA Certificate",
+        "graduated":"2004 to 2005",
+        "description":"CCNA1 -Networking Basics | Routers and Routing Basics \nCCNA2 -Switching Basic and Intermediate Routing: Administration \nCCNA3 -Administrator of systems, networks and LAN / WAN communications"
+      }
+    ],
+    "work":[
+          {
+        "company":"Entre - joinentre.com",
+        "id": "1",
+        "title":"Web app Developer",
+        "years":"Apr 2021 - Present",
+        "description":"Web app developer | Javascript | React | Jira tasks management"
+      },
+      {
+        "company":"Henry",
+        "id": "2",
+        "title":"Full Stack Developer ",
+        "years":"Feb 2021 - Mar 2021",
+        "description":"Academic Final Project of the bootcamp soyHenry Web and mobile app were developed over 4 sprints with a duration of 4 weeks. \nReact, redux, express, nodejs, postgreSQL, MongoDB, ReactNative technologies were used for development"
+      },
+      {
+        "company":"Henry",
+        "id": "3",
+        "title":"Full Stack Developer ",
+        "years":"Jan 2021 - Feb 2021",
+        "description":"Academic Project created at soyHenry bootcamp \nIt was developed over 4 sprints with a duration of 4 weeks.\nReact, redux, express, nodejs, postgreSQL technologies were used for development"
+      },
+      {
+        "company":"Dakar Travel Agency",
+        "id": "4",
+        "title":"Founder",
+        "years":"Nov 2007 - Dec 2020",
+        "description":"-Directive and administrative tasks \n-Negotiation with suppliers \n-Management of work teams \n-Guide of tourist groups"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"0"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"55%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"50%"
+      },
+      {
+        "name":"React + Redux",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"80%"
+      },
+      {
+        "name":"Material UI",
+        "level":"50%"
+      },
+      {
+        "name":"HTML + CSS",
+        "level":"80%"
+      }
+    ],
+    "softSkills":[
+      {
+        "name":"Teamwork",
+        "level":"0"
+      },
+      {
+        "name":"Time Management",
+        "level":"55%"
+      },
+      {
+        "name":"Decision-making",
+        "level":"50%"
+      },
+      {
+        "name":"Creativity",
+        "level":"90%"
+      },
+      {
+        "name":"Communication",
+        "level":"80%"
+      },
+      {
+        "name":"Adaptability",
+        "level":"50%"
+      },
+      {
+        "name":"Critical thinking",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"React Native Portfolio",
+        "category":"Project developed with React Native",
+        "image":"04.jpg",
+        "url":"https://github.com/fmarilao/portfolioMobile"
+      },
+      {
+        "title":"Henry App",
+        "category":"JS Bootcamp project | WebApp + MobileApp",
+        "image":"01.jpg",
+        "url":"https://github.com/fmarilao/henryLabs"
+      },
+      {
+        "title":"Ecommerce",
+        "category":"Full Ecommerce | Project developed at the soyHenry bootcamp",
+        "image":"02.jpg",
+        "url":"https://github.com/fmarilao/ecommerce"
+      },
+      {
+        "title":"React Casino",
+        "category":"Developed for a React technical test",
+        "image":"03.jpg",
+        "url":"https://github.com/fmarilao/reactCasino"
+      }
+    ]
+  }
+}
